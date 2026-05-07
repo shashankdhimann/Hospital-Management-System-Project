@@ -1,8 +1,11 @@
 🏥 Hospital Management System (HMS)
 
 <img width="1364" height="633" alt="Screenshot 2026-05-07 113808" src="https://github.com/user-attachments/assets/122a218a-e7ec-4950-a680-c7439a4a5dc3" />
+
 <img width="1236" height="629" alt="Doctor" src="https://github.com/user-attachments/assets/063e73f1-aa0e-4988-8805-7b8f10dba48b" />
+
 <img width="1307" height="632" alt="Patient" src="https://github.com/user-attachments/assets/af2ae61f-fec9-464b-bc56-386ebb58164c" />
+
 <img width="1313" height="617" alt="Appointment" src="https://github.com/user-attachments/assets/30fae71a-f1a6-42d0-89e0-6a90076022b3" />
 A full-stack Hospital Management System built with ASP.NET Web Forms (C#) and MS SQL Server. The system handles hospital staff login, patient records management, doctor management, and appointment tracking — all through a web-based interface with real-time database connectivity.
 
